@@ -4,6 +4,10 @@
 
 I'm an indie full-stack developer and AI enthusiast building insightfull and interesting projects that I find meaningful. All coding projects are built from the ground up, from research and design to real-world problem solving. As I continue to research cutting-edge AI algorithms and one day hope to contribute to this exciting field, my repository will be my source of experimentation and development. I am a firm believer in learning in public, checkout my twitter "[GhostDev](https://twitter.com/ghostdev_ai)" to see what I'm currently learning as well as projects that I'm developing. 
 
+### Connect with me:
+[Twitter](https://twitter.com/ghostdev_ai)
+[LinkedIn](https://www.linkedin.com/in/ulisesgomezjr/)
+
 ---
 
 ### 👨🏻‍💻 Languages and Tools
