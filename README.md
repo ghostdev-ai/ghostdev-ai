@@ -4,6 +4,8 @@
 
 I'm an indie full-stack developer and AI enthusiast building insightfull and interesting projects that I find meaningful. All coding projects are built from the ground up, from research and design to real-world problem solving. As I continue to research cutting-edge AI algorithms and one day hope to contribute to this exciting field, my repository will be my source of experimentation and development. I am a firm believer in learning in public, checkout my twitter "[GhostDev](https://twitter.com/ghostdev_ai)" to see what I'm currently learning as well as projects that I'm developing. 
 
+---
+
 ### 👨🏻‍💻 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
